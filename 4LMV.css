@@ -1,0 +1,21 @@
+h1 	{font-family:monospace;
+    font-size:40px;
+    color:chocolate;}
+
+div{ font-family: inherit;
+     font-size: 17px;}
+
+p { font-weight: bold;}
+
+p {font-family:inherit;
+    font-size: 22px;}
+
+dt{font-family:inherit;
+    font-size: 19px;
+    font-weight: bold;}
+
+dd { font-family: inherit;
+    font-size: 17px;}
+
+
+
